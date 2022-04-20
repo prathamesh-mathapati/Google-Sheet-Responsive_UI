@@ -57,11 +57,19 @@ form button:hover {
   background-color: rgb(240, 245, 247);
   border: 1px solid blue;
 }
+.bul-2:hover,
+.bul:active {
+  background-color: rgb(240, 245, 247);
+  border: 1px solid blue;
+}
 .help {
   width: 4rem;
 }
 .lag {
   width: 10rem;
+}
+.cur {
+  cursor: pointer;
 }
 
 .bul-1,
